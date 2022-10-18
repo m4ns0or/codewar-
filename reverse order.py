@@ -1,3 +1,5 @@
+# In this kata you will create a function that takes in a list and returns a list with the reverse order.
+
 lst1 = [1, 2, 3, 4]
 lst2 = [9, 2, 0, 7]
 lst1.reverse()
